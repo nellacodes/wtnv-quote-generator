@@ -1,2 +1,2 @@
-# wtnv_quote_generator
+# wtnv-quote-generator
 Generates quotes from the podcast Welcome to Night Vale.
